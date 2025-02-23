@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Iec-leela/static/css/main.9517a788.css",
+    "main.js": "/Iec-leela/static/js/main.f7867722.js",
+    "static/js/453.2cacb1b9.chunk.js": "/Iec-leela/static/js/453.2cacb1b9.chunk.js",
+    "index.html": "/Iec-leela/index.html",
+    "main.9517a788.css.map": "/Iec-leela/static/css/main.9517a788.css.map",
+    "main.f7867722.js.map": "/Iec-leela/static/js/main.f7867722.js.map",
+    "453.2cacb1b9.chunk.js.map": "/Iec-leela/static/js/453.2cacb1b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9517a788.css",
+    "static/js/main.f7867722.js"
+  ]
+}
